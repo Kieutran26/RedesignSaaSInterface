@@ -1,0 +1,11 @@
+{
+  "title": "haha",
+  "description": "A streamlined SaaS-style website that preserves its original colors while making content clearer and easier for visitors to navigate.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
